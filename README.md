@@ -61,8 +61,7 @@
 
 ---
 
-## 📷 Примеры:
-(можно вставить скриншоты каналов здесь)
+## 📷 Фото каналов:
 
-![Превью MineTexturesHub](images/minetextureshub-preview.png)
-![Превью InfinityCheats](images/infinitycheats-preview.png)
+![Превью MineTexturesHub](assets/minetextureshub_preview.png)
+![Превью InfinityCheats](assets/infinitycheatsmcpe_preview.png)
