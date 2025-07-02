@@ -63,5 +63,5 @@
 
 ## 📷 Фото каналов:
 
-![Превью MineTexturesHub](assets/minetextureshub_preview.png)
-![Превью InfinityCheats](assets/infinitycheatsmcpe_preview.png)
+![Превью MineTexturesHub](assets/minetextureshub_preview.jpg)
+![Превью InfinityCheats](assets/infinitycheatsmcpe_preview.jpg)
